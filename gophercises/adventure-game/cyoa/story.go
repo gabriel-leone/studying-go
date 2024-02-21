@@ -1,6 +1,6 @@
 // cyoa is a package for building Choose Your Own Adventure
 // stories that can be rendered via the resulting http.Handler
-package adventure_game
+package cyoa
 
 import (
 	"encoding/json"
